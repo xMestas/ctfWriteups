@@ -1,1 +1,1 @@
-Here is where I will store my CTF scripts for my record and your education.
+Here is where I will publicly store some of my CTF scripts for my record and your education.
